@@ -84,11 +84,7 @@ React Native mobile application for Pokemon exploration
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pino0511&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pino0511&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pino0511&theme=radical)](https://git.io/streak-stats)
 
 ---
 
