@@ -88,19 +88,6 @@ React Native mobile application for Pokemon exploration
 
 ---
 
-### 🎯 2025 Learning Roadmap
-
-- [ ] Master Docker & Kubernetes containerization
-- [ ] Build microservices architecture
-- [ ] Contribute to major open-source projects
-- [ ] AWS/Azure cloud certification
-- [ ] Advanced AI/ML integration patterns
-- [ ] GraphQL & API optimization
-- [x] Learn AI/ML fundamentals
-- [x] Build full-stack applications
-
----
-
 ### 📝 Recent Activity
 
 - 🚀 Added comprehensive Troubleshooting sections to project READMEs
